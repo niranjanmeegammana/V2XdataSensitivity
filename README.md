@@ -7,4 +7,4 @@ With the rapid adoption of Vehicle-to-Everything (V2X) communication, real-time 
 
 Niranjan W. Meegammana Cyber Security Research Lab Shilpa Sayura Foundation Kandy, Sri Lanka
 
-Harinda Fernando Dept. of Computer Systems Engineering Sri Lanka Institute of Information Technology Malabe, Sri Lank
+Harinda Fernando Dept. of Computer Systems Engineering Sri Lanka Institute of Information Technology Malabe, Sri Lanka
